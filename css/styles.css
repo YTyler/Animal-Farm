@@ -1,3 +1,16 @@
 .greenBackground {
   background-color: green;
 }
+
+.cat {
+  display: none;
+  float: left;
+}
+
+.dog {
+  display: none;
+  float: right;
+}
+img {
+  width: 30%;
+}
